@@ -1,0 +1,26 @@
+titulek:
+Super Appka | Mobilní aplikace pro každou krevní skupinu
+
+navigace:
+Super appka
+Úžasný design
+Boží funkce
+Zdarma ke stažení
+
+hlavní nadpis:
+Super Appka
+
+slogan:
+Úžasná mobilní aplikace, která ti změní život.
+
+tlačítka:
+Stáhnout zdarma
+Více informací
+
+služby:
+Cestuj po světě
+Chatuj s přáteli
+Zažij dobrodružství
+
+patička:
+(c) 2016, Web od A do Z
